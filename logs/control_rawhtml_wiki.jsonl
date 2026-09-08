@@ -1,0 +1,15 @@
+{"step": 1, "status": "ok", "decision": {"action": "navigate", "target": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_series"}}
+{"step": 2, "status": "error", "error": "HTTPError: 400 Client Error: Bad Request for url: http://127.0.0.1:8080/v1/chat/completions"}
+{"summary": true, "verdict": null, "usage": {"prompt": 99, "completion": 27, "seconds": 6.506957769393921}, "trail": ["https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html", "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note"], "brain": "models/qwen3-0.6b-Q4_K_M.gguf", "time": "2026-09-08T12:06:01.882333"}
+{"step": 1, "status": "ok", "decision": {"action": "navigate", "target": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_series"}}
+{"step": 2, "status": "error", "error": "HTTPError: 400 Client Error: Bad Request for url: http://127.0.0.1:8080/v1/chat/completions"}
+{"summary": true, "verdict": null, "usage": {"prompt": 81, "completion": 27, "seconds": 5.334340810775757}, "trail": ["https://example.com/", "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note"], "brain": "models/qwen3-0.6b-Q4_K_M.gguf", "time": "2026-09-08T12:07:55.186969"}
+{"step": 1, "status": "ok", "decision": {"action": "navigate", "target": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_series"}}
+{"step": 2, "status": "error", "error": "ValueError: Bad decision: {'target': 'https://en.wikipedia.org/wiki/Samsung_Galaxy_Note'}"}
+{"summary": true, "verdict": null, "usage": {"prompt": 12422, "completion": 45, "seconds": 2621.3223576545715}, "trail": ["https://example.com/", "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note"], "brain": "models/qwen3-0.6b-Q4_K_M.gguf", "time": "2026-09-08T12:53:54.455126"}
+{"step": 1, "status": "ok", "decision": {"action": "navigate", "target": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_series"}}
+{"step": 2, "status": "error", "error": "ValueError: Bad decision: {'target': 'https://en.wikipedia.org/wiki/Samsung_Galaxy_Note'}"}
+{"summary": true, "verdict": null, "usage": {"prompt": 12422, "completion": 45, "seconds": 2348.1495685577393}, "trail": ["https://example.com/", "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note"], "brain": "models/qwen3-0.6b-Q4_K_M.gguf", "time": "2026-09-08T13:33:59.308020"}
+{"step": 1, "status": "ok", "decision": {"action": "navigate", "target": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_series"}}
+{"step": 2, "status": "error", "error": "ValueError: Bad decision: {'target': 'https://en.wikipedia.org/wiki/Samsung_Galaxy_Note'}"}
+{"summary": true, "verdict": null, "usage": {"prompt": 12422, "completion": 45, "seconds": 2128.8706789016724}, "trail": ["https://example.com/", "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note"], "brain": "models/qwen3-0.6b-Q4_K_M.gguf", "time": "2026-09-08T14:10:25.608326"}

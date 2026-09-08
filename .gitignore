@@ -1,0 +1,5 @@
+token.json
+models/
+*.gguf
+__pycache__/
+*.pyc

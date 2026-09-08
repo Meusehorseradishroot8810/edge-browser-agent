@@ -1,0 +1,12 @@
+ec2d5801640099e97d8d7e8003ad4d81f336e757811f03a26173dddf386602fd  models/MiniCPM5-2B-Q4_K_M.gguf
+1adf0b11065d8ad2e8123ea110d1ec956dab4ab038eab665614adba04b6c3370  models/Qwen2.5-1.5B-Instruct-Q4_K_M.gguf
+c78e1b978b44cd4d88d4bdc81ada1ca26b0089c502704c4e527ff6dc11e08f75  models/glm-edge-1.5b-Q4_K_M.gguf
+b1b3de114215d9507409a662a501a631095a479a419584e8a2ded6304b19b4f5  models/lfm2.5-1.2b-Q4_K_M.gguf
+6c1a2b41161032677be168d354123594c0e6e67d2b9227c84f296ad037c728ff  models/llama-3.2-3b-instruct-Q4_K_M.gguf
+ac2d97712095a558e31573f62f466a3f9d93990898b0ec79d7c974c1780d524a  models/qwen3-0.6b-Q4_K_M.gguf
+e0aee85060f168f0f2d8473d7ea41ce2f3230c1bc1374847505ea599288a7787  gemma-2-2b-it-Q4_K_M.gguf  (hf: bartowski/gemma-2-2b-it-GGUF)
+8ccc5cd1f1b3602548715ae25a66ed73fd5dc68a210412eea643eb20eb75a135  gemma-3-1b-it-Q4_K_M.gguf  (hf: ggml-org/gemma-3-1b-it-GGUF)
+d156a5159f2f79c1b1d53c7c1cc20f1ff28ab8d00f17a292620aad13399b9698  gemma-3-270m-it-Q8_0.gguf  (hf: unsloth/gemma-3-270m-it-GGUF)
+6f85a640a97cf2bf5b8e764087b1e83da0fdb51d7c9fab7d0fece9385611df83  Llama-3.2-1B-Instruct-Q4_K_M.gguf  (hf: bartowski/Llama-3.2-1B-Instruct-GGUF)
+a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d  LFM2-350M-Q4_K_M.gguf  (hf: LiquidAI/LFM2-350M-GGUF)
+74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db  qwen2.5-0.5b-instruct-q4_k_m.gguf  (hf: Qwen/Qwen2.5-0.5B-Instruct-GGUF)
