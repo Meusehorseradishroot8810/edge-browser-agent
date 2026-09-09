@@ -10,3 +10,5 @@ d156a5159f2f79c1b1d53c7c1cc20f1ff28ab8d00f17a292620aad13399b9698  gemma-3-270m-i
 6f85a640a97cf2bf5b8e764087b1e83da0fdb51d7c9fab7d0fece9385611df83  Llama-3.2-1B-Instruct-Q4_K_M.gguf  (hf: bartowski/Llama-3.2-1B-Instruct-GGUF)
 a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d  LFM2-350M-Q4_K_M.gguf  (hf: LiquidAI/LFM2-350M-GGUF)
 74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db  qwen2.5-0.5b-instruct-q4_k_m.gguf  (hf: Qwen/Qwen2.5-0.5B-Instruct-GGUF)
+bd258782e35f7f458f8aced1adc053e6e92e89bc735ba3be89d38a06121dc517  qwen3.5-0.8b-Q4_K_M.gguf  (hf: unsloth/Qwen3.5-0.8B-GGUF, file Qwen3.5-0.8B-Q4_K_M.gguf; computed on the phone)
+9ed150d4367e68df0ac8e1540f6ddc65b42d0ee26378329d1ecbca60f93fc5f8  ministral-3-3b-Q4_K_M.gguf  (hf: mistralai/Ministral-3-3B-Instruct-2512-GGUF, file Ministral-3-3B-Instruct-2512-Q4_K_M.gguf; computed on the phone)

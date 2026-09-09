@@ -48,3 +48,10 @@ if active:
               "| viewport", str(vp.get("width", "?")) + "x" + str(vp.get("height", "?")), "| active tab:", active.get("url", "")[:70])
     except Exception:
         print("HDR EYES    : capture failed:", txt[:200])
+
+import subprocess as _sp
+try:
+    _b = json.loads(_sp.run(["termux-battery-status"], capture_output=True, text=True, timeout=10).stdout)
+    print("HDR THERMAL : battery " + str(_b.get("temperature")) + " C | " + str(_b.get("percentage")) + "% | " + str(_b.get("status")))
+except Exception as _e:
+    print("HDR THERMAL : n/a (" + type(_e).__name__ + ")")

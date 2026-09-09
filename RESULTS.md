@@ -14,7 +14,9 @@ Route: foreign site → home → Travel → "It's Only the Himalayas" → report
 | GLM-Edge-1.5B-Chat | 1.5B | Q4_K_M | 980 MB | toscrape_task_glm.jsonl | 10/10 | rating as digit ("2"); accepted |
 | Gemma-2-2B-it | 2.6B | Q4_K_M | 1,709 MB | toscrape_task_gemma2.jsonl | 10/10 | - |
 | MiniCPM5-2B | 2B | Q4_K_M | 1,561 MB | toscrape_task_minicpm5.jsonl | 9/10 | "£45.17" → "$45.17" (run 1) |
+| Qwen3.5-0.8B (unsloth GGUF) | 0.8B | Q4_K_M | 533 MB | toscrape_task_qwen35_08.jsonl | 6/10 | navigation 10/10; "45.17" without "£" in 4 reports (8 Sep; an earlier 6-run series in the same file was cut by a network drop) |
 | Llama-3.2-3B-Instruct | 3B | Q4_K_M | 2,019 MB | toscrape_task_llama3b.jsonl | 10/10 | - |
+| Ministral-3-3B-Instruct-2512 (official GGUF) | 3B | Q4_K_M | 2,147 MB | toscrape_task_ministral3.jsonl | 10/10 | Firefox; JSON in code fences; battery 31.0 → 41.6 °C, 39 → 15% over 10 runs (9 Sep) |
 | Llama-3.2-1B-Instruct | 1B | Q4_K_M | 808 MB | toscrape_task_llama1b.jsonl | 0/10 | pseudo-code `candidate['id']`; one run echoed the candidate list |
 | Gemma-3-1B-it | 1B | Q4_K_M | 806 MB | toscrape_task_gemma.jsonl | 0/10 | `"ID"` placeholder |
 | Gemma-3-270M-it | 0.27B | Q8_0 | 292 MB | toscrape_task_gemma270.jsonl | 0/10 | `"ID"` placeholder |
@@ -41,6 +43,16 @@ Route: foreign site → home → "It's Only the Himalayas" (no category hint) �
 | Model | Log | PASS |
 |---|---|---|
 | Qwen3-0.6B | book2_upc.jsonl | 10/10 |
+
+## Task 4 - GitHub, live site, Firefox (`github.py`)
+
+Route: unrelated site → github.com/e2llm → click "edge-browser-agent" by name → eyes read the star count from the repo header → click "logs" by name → eyes count files by `/blob/main/logs/` links → report {repo, stars, log_files}. Ground truth: GitHub API (`stargazers_count`, `contents/logs`) fetched at report time. Browser: Firefox (E2LLM extension 1.5.35), Chrome closed.
+
+| Model | Log | PASS | Battery temp over 10 runs | Note |
+|---|---|---|---|---|
+| Qwen3-0.6B | github_stars_ff.jsonl | 10/10 | 28.7 → 32.7 °C, 57 → 52%, unplugged | 2 stars, 20 log files in every report; API agreed every time |
+
+Thermal reference (task 1, Qwen3-0.6B, 3 back-to-back runs, unplugged, idle 10 min before): 31.2 / 31.5 / 31.5 °C, wall-clock 53 / 54 / 54 s, all PASS. Run 1 without prompt cache.
 
 ## Control - raw HTML instead of the perception layer (`control.py`, `control_wiki.py`)
 
