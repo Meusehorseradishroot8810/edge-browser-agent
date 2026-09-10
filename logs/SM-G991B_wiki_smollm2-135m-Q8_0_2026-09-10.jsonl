@@ -1,0 +1,30 @@
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000002'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com'}"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=1234567890&ei=0000000000000000&sid=1234567'"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000002/dp/B0000000000000002. Return only {\"action\":\"navigate\",\"target\":\"https://www.amazon.com/dp/B00'"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=10000000000000001&ei=0000000000000000&sid='"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=123456789012345678901234567890123456789'"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=10000000000000001&ei=0000000000000000&sid='"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com'}"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=12345678901&ei=0000000000000000&sid=123456'"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp/B0000000000000001. Return only {\"action\":\"navigate\",\"target\":\"https://www.amazon.com/dp/B00'"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=10000000000000001&ei=0000000000000000&sid='"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=20190000000000000&ei=0000000000000000&sid='"}
+{"step": 1, "status": "error", "error": "ValueError: No JSON from model: 'MISSION step 1: go to https://www.amazon.com/dp/B0000000000000001/dp?sid=123456789012345678901234567890123456789'"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}
+{"step": 1, "status": "error", "error": "ValueError: Bad navigate: {'action': 'navigate', 'target': 'https://www.amazon.com/dp/B0000000000000001'}"}

@@ -1,0 +1,16 @@
+{
+  "device": "SM-A042F",
+  "brand": "samsung",
+  "android": "14",
+  "sdk": "34",
+  "soc": "mt6765",
+  "cpu_cores": 8,
+  "mem_total_kb": 2840840,
+  "termux_version": "0.118.3",
+  "llama_cpp_commit": "e107984bc",
+  "model": "qwen3-0.6b-Q4_K_M.gguf",
+  "model_md5": "45349ac9dec6a388775cbd720be5f8df",
+  "server_flags": "-c 4096 -t 4 --jinja",
+  "runs_per_task": 10,
+  "date": "2026-09-10"
+}

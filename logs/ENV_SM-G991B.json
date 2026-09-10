@@ -1,0 +1,16 @@
+{
+  "device": "SM-G991B",
+  "brand": "samsung",
+  "android": "15",
+  "sdk": "35",
+  "soc": "exynos2100",
+  "cpu_cores": 8,
+  "mem_total_kb": 7373752,
+  "termux_version": "0.118.3",
+  "llama_cpp_commit": "e107984bc",
+  "model": "llama-3.2-3b-instruct-Q4_K_M.gguf",
+  "model_md5": "879ae97f5886c0b224211a3519df4193",
+  "server_flags": "-c 4096 -t 4 --jinja",
+  "runs_per_task": 10,
+  "date": "2026-09-10"
+}
